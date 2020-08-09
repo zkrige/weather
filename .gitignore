@@ -1,0 +1,9 @@
+android/app/build
+android/.gradle
+android/.idea
+android/app/release
+android/build
+ios/Pods
+node_modules
+ios/Weather.xcodeproj/xcuserdata
+ios/Weather.xcworkspace/xcuserdata
